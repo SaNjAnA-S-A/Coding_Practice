@@ -1,3 +1,4 @@
+#https://leetcode.com/problems/odd-string-difference/
 class Solution:
     def oddString(self, words: List[str]) -> str:
         diff = []
