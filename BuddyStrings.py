@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/buddy-strings/
+
 from collections import Counter
 class Solution:
     def buddyStrings(self, s: str, goal: str) -> bool:
